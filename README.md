@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋🏼! I'm Dalal </h1>
-<h3 align="center">A software engineer interested in mobile and web development.</h3>
+### Hello 👋🏼! I'm Dalal </h1>
+#### A software engineer interested in mobile and web development.</h3>
 
 
 <p align="center">
