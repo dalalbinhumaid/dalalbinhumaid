@@ -1,9 +1,7 @@
 ![Header](assets/heading.gif)
 
-## 🙋🏻‍♀️
-Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/). Interested in machine learning, AI, mobile and web applications development. Feel free to contact me via email -> [📧](mailto:dalalbinhumaid@gmail.com)
-
-<br>
+# 🙋🏻‍♀️
+Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/). Interested in machine learning, AI, mobile and web applications development. Feel free to contact me via [email](mailto:dalalbinhumaid@gmail.com)
 
 <p> 
     <a href="https://www.linkedin.com/in/dalalbinhumaid/"><img src="assets/linkedin logo.svg" alt="LinkedIn"></a>
@@ -11,7 +9,8 @@ Senior software engineering student @[King Saud University](https://ksu.edu.sa/e
             src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
 </p>
 
-## Languages and Technologies
+
+# 💻 
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img
@@ -53,8 +52,9 @@ Senior software engineering student @[King Saud University](https://ksu.edu.sa/e
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50"
             height="50" /> </a> 
 </p>
-
-## Stats
+    
+    
+# 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalbinhumaid&langs_count=5&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Stats](https://github-readme-stats.vercel.app/api/?username=dalalbinhumaid&&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
