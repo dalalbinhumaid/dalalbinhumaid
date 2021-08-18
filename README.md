@@ -1,9 +1,7 @@
 ![Header](assets/heading.gif)
 
-<br>
-
 ## 🙋🏻‍♀️
-Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), I'm interested in Machine Learning, AI and Application Development. Feel free to contact me via email -> [📧](mailto:dalalbinhumaid@gmail.com)
+Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/). Interested in machine learning, AI, mobile and web applications development. Feel free to contact me via email -> [📧](mailto:dalalbinhumaid@gmail.com)
 
 <br>
 
