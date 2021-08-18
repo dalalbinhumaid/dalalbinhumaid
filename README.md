@@ -1,13 +1,13 @@
 ![Header](assets/heading.gif)
 
 ## 🙋🏻‍♀️
-A senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), I'm interested in Machine Learning, AI and Application Development. Feel free to contact me via [📧](mailto:dalalbinhumaid@gmail.com)
+Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), I'm interested in Machine Learning, AI and Application Development. Feel free to contact me via [📧](mailto:dalalbinhumaid@gmail.com)
 
 
-
-<p> <a href="https://twitter.com/ha4lool" target="blank"><img
-            src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
+<p> 
     <a href="https://www.linkedin.com/in/dalalbinhumaid/"><img src="assets/linkedin logo.svg" alt="LinkedIn"></a>
+    <a href="https://twitter.com/ha4lool" target="blank"><img
+            src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
 </p>
 
 ## Languages and Technologies
