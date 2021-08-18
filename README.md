@@ -2,7 +2,7 @@
 A software engineer interested in mobile and web development.
 <p> <a href="https://twitter.com/ha4lool" target="blank"><img
             src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
-    <a href="https://www.linkedin.com/in/dalalbinhumaid/"><img src="assets/linkedin-logo.png" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/dalalbinhumaid/"><img src="assets/linkedin logo.svg" alt="LinkedIn"></a>
  </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalbinhumaid&langs_count=7&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
