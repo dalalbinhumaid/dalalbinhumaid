@@ -9,6 +9,7 @@ Senior software engineering student @[King Saud University](https://ksu.edu.sa/e
             src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
 </p>
 
+<br>
 
 # 💻 
 
@@ -53,6 +54,7 @@ Senior software engineering student @[King Saud University](https://ksu.edu.sa/e
             height="50" /> </a> 
 </p>
     
+<br>
     
 # 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalbinhumaid&langs_count=5&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
