@@ -1,4 +1,5 @@
-### Hello 👋🏼! I'm Dalal </h1>
+![Header](assets/heading.gif)
+### 👋🏼 
 A software engineer interested in mobile and web development.
 <p> <a href="https://twitter.com/ha4lool" target="blank"><img
             src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
