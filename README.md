@@ -1,8 +1,11 @@
 ![Header](assets/heading.gif)
 
-## 🙋🏻‍♀️
-Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), I'm interested in Machine Learning, AI and Application Development. Feel free to contact me via my email -> [📧](mailto:dalalbinhumaid@gmail.com)
+<br>
 
+## 🙋🏻‍♀️
+Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), I'm interested in Machine Learning, AI and Application Development. Feel free to contact me via email -> [📧](mailto:dalalbinhumaid@gmail.com)
+
+<br>
 
 <p> 
     <a href="https://www.linkedin.com/in/dalalbinhumaid/"><img src="assets/linkedin logo.svg" alt="LinkedIn"></a>
