@@ -50,7 +50,7 @@ Senior software engineering student @[King Saud University](https://ksu.edu.sa/e
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalbinhumaid&langs_count=7&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Stats](https://github-readme-stats.vercel.app/api/?username=dalalbinhumaid&&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/?username=dalalbinhumaid&&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
