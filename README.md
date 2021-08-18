@@ -1,11 +1,13 @@
 ### Hello 👋🏼! I'm Dalal </h1>
-#### A software engineer interested in mobile and web development.</h3>
-
-
-<p align="center">
-    <a href="https://twitter.com/ha4lool" target="blank"><img
+A software engineer interested in mobile and web development.
+<p> <a href="https://twitter.com/ha4lool" target="blank"><img
             src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
-</p>
+    <a href="https://www.linkedin.com/in/dalalbinhumaid"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+ </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalbinhumaid&langs_count=7&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/?username=dalalbinhumaid&&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img
@@ -41,17 +43,3 @@
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> </p>
 
-<p align="left">
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=dalalbinhumaid&show_icons=true&theme=onedark&locale=en&layout=compact"
-        alt="dalalbinhumaid" />
-</p>
-
-<p align="left">&nbsp;<img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=dalalbinhumaid&show_icons=true&theme=onedark&hide_border=true&locale=en"
-        alt="dalalbinhumaid" />
-</p>
-
-<p align="left">
-    Feel free to reach out via 📧 **dalalbinhumaid@gmail.com**
-</p>
