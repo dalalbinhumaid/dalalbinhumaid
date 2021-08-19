@@ -1,8 +1,9 @@
 ![Header](assets/heading.gif)
 
 # 🙋🏻‍♀️
-Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/). Interested in machine learning, AI, mobile and web applications development. Feel free to contact me via [email](mailto:dalalbinhumaid@gmail.com)
-<p> 
+Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), interested in machine learning, AI, mobile and web applications development. 
+ 
+ <p align = "center" > 
     <a href="https://www.linkedin.com/in/dalalbinhumaid/"><img src="assets/linkedin logo.svg" alt="LinkedIn"></a>
     <a href="https://twitter.com/ha4lool" target="blank"><img src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
 </p>
@@ -55,4 +56,5 @@ Senior software engineering student @[King Saud University](https://ksu.edu.sa/e
 
 
 
+ *contact me via [email](mailto:dalalbinhumaid@gmail.com)*
 
