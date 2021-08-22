@@ -1,4 +1,4 @@
-![Header](assets/heading.gif)
+<!-- ![Header](assets/heading.gif) -->
 
 # 🙋🏻‍♀️
 Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), interested in machine learning, AI, mobile and web applications development. 
