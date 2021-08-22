@@ -28,8 +28,6 @@ Senior software engineering student @[King Saud University](https://ksu.edu.sa/e
     <a href="https://developer.android.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="50" height="50" /> </a> 
-    <a href="https://angular.io" target="_blank"> <img
-            src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50" />
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="50" height="50" /> </a> <a href="https://www.figma.com/" target="_blank"> <img
