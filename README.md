@@ -1,8 +1,8 @@
 <!-- ![Header](assets/heading.gif) -->
 
 # 🙋🏻‍♀️
-Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), interested in machine learning, AI, mobile and web applications development. 
- 
+Senior software engineering student @[King Saud University](https://ksu.edu.sa/en/), interested in machine learning, AI, mobile and web applications development. *contact me via [email](mailto:dalalbinhumaid@gmail.com)*
+
  <p align = "center" > 
     <a href="https://www.linkedin.com/in/dalalbinhumaid/"><img src="assets/linkedin logo.svg" alt="LinkedIn"></a>
     <a href="https://twitter.com/ha4lool" target="blank"><img src="https://img.shields.io/twitter/follow/ha4lool?style=social" alt="ha4lool" /></a>
@@ -49,10 +49,11 @@ Senior software engineering student @[King Saud University](https://ksu.edu.sa/e
 </p>
     
 # 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalbinhumaid&langs_count=5&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalalbinhumaid&theme=dracula&hide_border=true&layout=compact&exclude_repo=identify-customer-segments,finding-donors,flowers-classifier,expo-2020-sentiment-analysis&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 [![Stats](https://github-readme-stats.vercel.app/api/?username=dalalbinhumaid&&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
- *contact me via [email](mailto:dalalbinhumaid@gmail.com)*
 
